@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_50">#FAE8E7</color>
+    <color name="orange_100">#FDc9bb</color>
+    <color name="orange_200">#FCA590</color>
+    <color name="orange_400">#FA6643</color>
+    <color name="orange_500">#F94724</color>
+    <color name="orange_700">#E31B1B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="dark_purple">#06093D</color>
+    <color name="black_50">#FF3C3C3C</color>
+    <color name="black_100">#1E1F25</color>
+    <color name="black_200">#131517</color>
+    <color name="black">#FF000000</color>
+    <color name="grey_400">#CCCCCC</color>
+    <color name="grey_500">#CAD5E2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_200">#CF212A</color>
+    <color name="red_soft">#FA5757</color>
+
+    <color name="shadowColor">#4D22292E</color>
+    <color name="statusBarColor">#DBDBDB</color>
+    <color name="backgroundColorField">#F1F6FB</color>
+    <color name="textColorPrimary">#06093D</color>
+    <color name="textColorCaption">#848484</color>
+    <color name="textColorCaption2">#A29EB6</color>
+    <color name="textColorSecondary">#C2C2C2</color>
+    <color name="colorDivider">#77B1B1B1</color>
+    <color name="colorOverlay">#74000000</color>
+</resources>

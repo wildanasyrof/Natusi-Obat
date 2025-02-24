@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Obat</string>
+
+    //login
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="headline_on_login">Welcome Petugas</string>
+    <string name="caption_on_login">Stay signed in with your account to explore your destinations</string>
+    <string name="image_on_loginactivity">Image on LoginActivity</string>
+    <string name="validation_username">Username tidak boleh kosong</string>
+    <string name="validation_password">Password tidak boleh kosong</string>
+    <string name="validation_password_char">Password minimal 6 karakter</string>
+    <string name="name_place">Nama Obat</string>
+    <string name="item_category">Kategori:</string>
+    <string name="item_harga">Rp 15.000</string>
+    <string name="Item_name">Nama Obat</string>
+    <string name="stock">Stock\n</string>
+    <string name="obat_harga_placeholder">"Rp. %s"</string>
+    <string name="obat_kategori_placeholder">"Kategori: %s"</string>
+</resources>
